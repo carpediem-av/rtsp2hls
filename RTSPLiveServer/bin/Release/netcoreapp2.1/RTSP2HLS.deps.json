@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "8aad4e1b15ea8379dcc7ae0a0a4cecbf27cce4f7"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "RTSP2HLS/1.0.0": {
+        "dependencies": {
+          "Ceen.Httpd": "0.9.9",
+          "Portable.BouncyCastle": "1.9.0"
+        },
+        "runtime": {
+          "RTSP2HLS.dll": {}
+        }
+      },
+      "Ceen.Httpd/0.9.9": {
+        "runtime": {
+          "lib/netstandard2.0/Ceen.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Ceen.Httpd.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Portable.BouncyCastle/1.9.0": {
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RTSP2HLS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ceen.Httpd/0.9.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nzjWihqdQBJUrGlDWx4711aG5A2P0Pmz/5n5RCsTZUdOUfZZdk3lPHVI+1rtwSzt9F4REZ05nF765nFp8YzYGg==",
+      "path": "ceen.httpd/0.9.9",
+      "hashPath": "ceen.httpd.0.9.9.nupkg.sha512"
+    },
+    "Portable.BouncyCastle/1.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eZZBCABzVOek+id9Xy04HhmgykF0wZg9wpByzrWN7q8qEI0Qen9b7tfd7w8VA3dOeesumMG7C5ZPy0jk7PSRHw==",
+      "path": "portable.bouncycastle/1.9.0",
+      "hashPath": "portable.bouncycastle.1.9.0.nupkg.sha512"
+    }
+  }
+}
