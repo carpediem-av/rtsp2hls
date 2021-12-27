@@ -21,7 +21,7 @@ The program is designed to organize access to an IP-camera through a website. Th
 
 ---
 
-Донат. Если вы хотите поддержать автора, то это можно сделать через:
+Донат. Если вы хотите материально поддержать автора, то это можно сделать через:
 
 Киви - VERSETTY
 
