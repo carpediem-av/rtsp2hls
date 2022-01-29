@@ -1,6 +1,8 @@
 # rtsp2hls
 The program is designed to organize access to an IP-camera through a website. The setup is simplified as much as possible - you need to add cameras by specifying their RTSP links, fill in a couple of parameters and run the server program. If there are no spectators at the moment, then video stream from the camera will not be captured.
 
+If your browser cannot play the video, then disable H.265 and H.264+ in the camera settings. Browsers only support H.264 (January 2022).
+
 ---
 
 Установка и настройка:
@@ -17,7 +19,7 @@ The program is designed to organize access to an IP-camera through a website. Th
 7. Если целью установки программы не было тестирование, то скорее всего вам придется пробросить порты на роутере, чтобы сервер был виден из интернета (по умолчанию используется порт tcp/8000, его лучше изменить в Конфигураторе). А также добавить сервер в автозагрузку. Здесь вам придется действовать самим.
 8. Готово – теперь вы можете смотреть камеры в браузере по тем ссылкам, которые вы скопировали в п.5.
 
-Внимание - убедитесь, что в камере выставлен формат кодирования видео H.264! Более новый H.265 не поддерживается большинством браузеров (на январь 2022 года). Программа не осуществляет перекодирование!
+Внимание - убедитесь, что в камере выставлен формат кодирования видео H.264! Более новый H.265 не поддерживается большинством браузеров (на январь 2022 года). Также следует выключить опцию H.264+ в настройках камеры. Программа не осуществляет перекодирование!
 Подробности о программе здесь: https://habr.com/ru/post/598257/
 
 ---
