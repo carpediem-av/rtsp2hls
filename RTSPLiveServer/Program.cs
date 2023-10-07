@@ -16,12 +16,7 @@ using System.Threading.Tasks;
 using Ceen;
 using Ceen.Httpd;
 using Ceen.Httpd.Logging;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Utilities.IO.Pem;
-using Org.BouncyCastle.X509;
+using Oocx.ReadX509CertificateFromPem;
 using RTSPLiveServer;
 
 namespace HttpListenerExample
@@ -301,11 +296,8 @@ namespace HttpListenerExample
 			if (ConfigManager.Current.https_mode_on) {
 				try {
 					if (File.Exists(pemCertFile) && File.Exists(pemPrivKeyFile)) {
-						using (var rsa = readPemPrivateKey(pemPrivKeyFile)) {
-							using (X509Certificate2 cert = readPemCert(pemCertFile)) {
-								config.SSLCertificate = cert.CopyWithPrivateKey(rsa);
-							}
-						}
+                        var reader = new CertificateFromPemReader();
+                        config.SSLCertificate = reader.LoadCertificateWithPrivateKey(pemCertFile, pemPrivKeyFile);
 					}
 					else if (File.Exists(certFilename)) {
 						config.LoadCertificate(certFilename, ConfigManager.Current.cert_password);
@@ -333,35 +325,6 @@ namespace HttpListenerExample
 			);
 
 			return true;
-		}
-
-		public static X509Certificate2 readPemCert(string pathToPemFile)
-		{
-			X509CertificateParser x509CertificateParser = new X509CertificateParser();
-			var cert = x509CertificateParser.ReadCertificate(File.ReadAllBytes(pathToPemFile));
-			return new X509Certificate2(cert.GetEncoded());
-		}
-
-		public static RSA readPemPrivateKey(string filename)
-		{
-			using (StreamReader streamReader = File.OpenText(filename)) {
-				PemReader pemReader = new PemReader(streamReader);
-				PemObject pemObject = pemReader.ReadPemObject();
-				PrivateKeyInfo privateKeyInfo = PrivateKeyInfo.GetInstance(pemObject.Content);
-				AsymmetricKeyParameter privateKeyBC = PrivateKeyFactory.CreateKey(privateKeyInfo);
-
-				if (isWindows) {
-					//this don't working on Linux
-					return DotNetUtilities.ToRSA((RsaPrivateCrtKeyParameters)privateKeyBC);
-				}
-				else {
-					//this don't working on Windows
-					var parms = DotNetUtilities.ToRSAParameters(privateKeyBC as RsaPrivateCrtKeyParameters);
-					var rsa = RSA.Create();
-					rsa.ImportParameters(parms);
-					return rsa;
-				}
-			}
 		}
 	}
 }

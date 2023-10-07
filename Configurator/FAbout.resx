@@ -122,13 +122,13 @@
 
 Предложения и пожелания вы можете оставить в комментарии к программе на моем сайте (ссылка ниже; см. раздел Программы).
 
-Версия 1.0
+Версия 1.1
 
 Используемые сторонние компоненты и ПО с открытым исходным кодом:
 - FFMpeg (https://ffmpeg.org/)
 - Ceen.Httpd (https://github.com/kenkendk/ceenhttpd)
 - HLS.js (https://github.com/video-dev/hls.js/)
-- Bouncy Castle (https://www.bouncycastle.org/)
+- Oocx.ReadX509CertificateFromPem (https://github.com/oocx/ReadX509CertificateFromPem)
 - Ifvisible.js (https://github.com/serkanyersen/ifvisible.js/)
 - графика https://pixabay.com/videos/polygon-loading-animation-abstract-6824/
 - графика https://www.iconfinder.com/icons/48791/play_player_icon</value>

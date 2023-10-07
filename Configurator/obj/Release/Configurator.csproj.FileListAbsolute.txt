@@ -16,3 +16,12 @@ h:\alexander\Desktop\RTSP2HLS\src\Configurator\obj\Release\Configurator.Properti
 h:\alexander\Desktop\RTSP2HLS\src\Configurator\obj\Release\Configurator.csproj.GenerateResource.cache
 h:\alexander\Desktop\RTSP2HLS\src\Configurator\obj\Release\Configurator.csproj.CoreCompileInputs.cache
 h:\alexander\Desktop\RTSP2HLS\src\Configurator\obj\Release\Configurator.exe
+X:\versetty\Desktop\src\Configurator\bin\Release\Configurator.exe.config
+X:\versetty\Desktop\src\Configurator\bin\Release\Configurator.exe
+X:\versetty\Desktop\src\Configurator\obj\Release\Configurator.csproj.AssemblyReference.cache
+X:\versetty\Desktop\src\Configurator\obj\Release\CDSD.Forms.FAbout.resources
+X:\versetty\Desktop\src\Configurator\obj\Release\Configurator.Form1.resources
+X:\versetty\Desktop\src\Configurator\obj\Release\Configurator.Properties.Resources.resources
+X:\versetty\Desktop\src\Configurator\obj\Release\Configurator.csproj.GenerateResource.cache
+X:\versetty\Desktop\src\Configurator\obj\Release\Configurator.csproj.CoreCompileInputs.cache
+X:\versetty\Desktop\src\Configurator\obj\Release\Configurator.exe

@@ -2,10 +2,11 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <ApplicationIcon />
     <StartupObject />
     <AssemblyName>RTSP2HLS</AssemblyName>
+    <Version>1.1.0.0</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
@@ -18,8 +19,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Ceen.Httpd" Version="0.9.9" />
-    <PackageReference Include="Portable.BouncyCastle" Version="1.9.0" />
+    <PackageReference Include="Ceen.Httpd" Version="0.9.10" />
+    <PackageReference Include="Microsoft.AspNetCore.WebUtilities" Version="2.2.0" />
+    <PackageReference Include="System.Security.Cryptography.Pkcs" Version="7.0.3" />
   </ItemGroup>
 
   <ItemGroup>

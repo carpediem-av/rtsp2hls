@@ -44,3 +44,4 @@ H:\alexander\Desktop\RTSP2HLS\src\RTSPLiveServer\obj\Release\netcoreapp2.1\win-x
 H:\alexander\Desktop\RTSP2HLS\src\RTSPLiveServer\obj\Release\netcoreapp2.1\win-x64\RTSPLiveServer.AssemblyInfoInputs.cache
 H:\alexander\Desktop\RTSP2HLS\src\RTSPLiveServer\obj\Release\netcoreapp2.1\win-x64\RTSPLiveServer.AssemblyInfo.cs
 H:\alexander\Desktop\RTSP2HLS\src\RTSPLiveServer\obj\Release\netcoreapp2.1\win-x64\RTSP2HLS.dll
+X:\versetty\Desktop\src\RTSPLiveServer\obj\Release\netcoreapp2.1\win-x64\RTSP2HLS.dll
