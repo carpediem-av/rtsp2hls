@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Carpe Diem Software Developing by Alex Versetty")]
 [assembly: AssemblyProduct("RTSP2HLS Configurator")]
-[assembly: AssemblyCopyright("Copyright (c) 2021-2023 Carpe Diem Software Developing by Alex Versetty")]
+[assembly: AssemblyCopyright("Copyright (c) 2021-2024 Carpe Diem Software Developing by Alex Versetty")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Можно задать все значения или принять номер сборки и номер редакции по умолчанию.
 // используя "*", как показано ниже:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.1.0.0")]
-[assembly: AssemblyFileVersion("1.1.0.0")]
+[assembly: AssemblyVersion("2.0.0.0")]
+[assembly: AssemblyFileVersion("2.0.0.0")]

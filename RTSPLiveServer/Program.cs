@@ -1,330 +1,179 @@
-﻿// Copyright (c) 2021 Carpe Diem Software Developing by Alex Versetty.
+﻿// Copyright (c) 2021-2024 Carpe Diem Software Developing by Alex Versetty.
 // http://carpediem.0fees.us/
 // License: MIT
 
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Net;
-using System.Runtime.InteropServices;
-using System.Security.Cryptography;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading;
-using System.Threading.Tasks;
-using Ceen;
-using Ceen.Httpd;
-using Ceen.Httpd.Logging;
-using Oocx.ReadX509CertificateFromPem;
-using RTSPLiveServer;
 
-namespace HttpListenerExample
+namespace RTSPLiveServer
 {
-	class RTSPLiveServer
-	{
-		const int assetExpireHours = 24 * 30;
+    class RTSPLiveServer
+    {
+		static readonly string s_appDirectory = AppDomain.CurrentDomain.BaseDirectory;
+        static readonly string s_workingDir = Path.Combine(s_appDirectory, "data", "stream");
+        static readonly string s_captureDir = Path.Combine(s_appDirectory, "data", "capture");
+        static readonly string s_assetsDir = Path.Combine(s_appDirectory, "assets");
+        static readonly string s_ffmpegDir = Path.Combine(s_appDirectory, "ffmpeg");
+        static readonly string s_certDir = Path.Combine(s_appDirectory, "data");
+        static readonly string s_logDir = Path.Combine(s_appDirectory, "data", "log");
+        static readonly string s_commonLogFilename = Path.Combine(s_logDir, "server_log.txt");
+        static readonly string s_httpLogfilename = Path.Combine(s_logDir, "http_log.txt");
 
-		static string appDirectory = AppDomain.CurrentDomain.BaseDirectory;
-		static string workingDir = Path.Combine(appDirectory, "data", "stream");
-		static string captureDir = Path.Combine(appDirectory, "data", "capture");
-		static string logDir = Path.Combine(appDirectory, "data", "log");
+        static Logger s_logger;
+        static Logger s_httpAccessLogger;
+        static HLS s_hls;
+		static Capture s_capture;
+        static WebServer s_webserver;
 
-		static string certFilename = Path.Combine(appDirectory, "data", "cert.pfx");
-		static string pemCertFile = Path.Combine(appDirectory, "data", "cert.pem");
-		static string pemPrivKeyFile = Path.Combine(appDirectory, "data", "privkey.pem");
-
-		static bool isWindows = RuntimeInformation.IsOSPlatform(OSPlatform.Windows);
-		static List<string> allowedAssetPathWithoutKey = new List<string>() { "/favicon.ico", "/background.html" };
-
-		public static string getContentType(string extension)
+		static void WaitUser()
 		{
-			switch (Path.GetExtension(extension)) {
-				case ".m3u8": return "application/x-mpegURL";
-				case ".ts":	return "video/MP2T";
-				case ".htm":
-				case ".html": return "text/html; charset=utf-8";
-				case ".js": return "text/javascript";
-				case ".css": return "text/css";
-				default: return "unknown";
+			try 
+            {
+				Console.ReadKey();  //в неинтерактивном режиме бросит исключение
 			}
-		}
-
-		static string getCamIDFromStreamReq(string absPath)
-		{
-			var pattern = @"(\/stream\/)(\S+)(\/\S+)";
-			var match = Regex.Match(absPath, pattern);
-
-			if (match.Success) {
-				if (match.Groups.Count == 4) {
-					return match.Groups[2].Value;
-				}
-			}
-
-			return null;
-		}
-
-		static async Task<bool> routeImage(IHttpContext context)
-		{
-			var reqParamKey = context.Request.QueryString["key"];
-			var camID = context.Request.QueryString["cam"];
-
-			if (reqParamKey != ConfigManager.Current.key) {
-				context.Response.StatusCode = Ceen.HttpStatusCode.Unauthorized;
-			}
-			else if (ConfigManager.Current.findCam(camID) == null) {
-				context.Response.StatusCode = Ceen.HttpStatusCode.NotFound;
-			}
-			else {
-				var filename = CaptureWorker.capture(camID);
-				byte[] data;
-
-				try {
-					data = File.ReadAllBytes(filename);
-				}
-				catch (Exception e) {
-					Logger.log($"Exception while try to read file {filename}. " + e.Message);
-					context.Response.StatusCode = Ceen.HttpStatusCode.InternalServerError;
-					return true;
-				}
-
-				context.Response.SetExpires(new TimeSpan(0, 0, ConfigManager.Current.capture_cache_expire), true);
-				context.Response.ContentType = "image/jpeg";
-				await context.Response.WriteAllAsync(data);
-			}
-
-			return true;
-		}
-
-		static async Task<bool> routeAsset(IHttpContext context)
-		{
-			var reqParamKey = context.Request.QueryString["key"];
-			
-			if (reqParamKey != ConfigManager.Current.key && !allowedAssetPathWithoutKey.Contains(context.Request.Path)) {
-				context.Response.StatusCode = Ceen.HttpStatusCode.Unauthorized;
-			}
-			else {
-				var filename = isWindows ? context.Request.Path.Replace('/', '\\') : context.Request.Path;
-				filename = Path.Combine(appDirectory, "assets", Path.GetFileName(filename));
-				byte[] data;
-
-				if (!File.Exists(filename)) {
-					context.Response.StatusCode = Ceen.HttpStatusCode.NotFound;
-					return true;
-				}
-
-				try {
-					data = File.ReadAllBytes(filename);
-				}
-				catch (Exception e) {
-					Logger.log($"Exception while try to read file {filename}. " + e.Message);
-					context.Response.StatusCode = Ceen.HttpStatusCode.InternalServerError;
-					return true;
-				}
-
-				context.Response.SetExpires(new TimeSpan(assetExpireHours, 0, 0), true);
-				context.Response.ContentType = getContentType(Path.GetExtension(filename));
-				await context.Response.WriteAllAsync(data);
-			}
-
-			return true;
-		}
-
-		static async Task<bool> routeStream(IHttpContext context)
-		{
-			var reqParamKey = context.Request.QueryString["key"];
-			var camID = getCamIDFromStreamReq(context.Request.Path);
-			var isPlaylistReq = context.Request.Path.EndsWith(".m3u8");
-
-			if (isPlaylistReq && reqParamKey != ConfigManager.Current.key) {
-				context.Response.StatusCode = Ceen.HttpStatusCode.Unauthorized;
-			}
-			else if (ConfigManager.Current.findCam(camID) == null) {
-				context.Response.StatusCode = Ceen.HttpStatusCode.NotFound;
-			}
-			else {
-				if (isPlaylistReq) HLS.canary(camID);
-
-				var filename = isWindows ? context.Request.Path.Replace('/', '\\') : context.Request.Path;
-				filename = Path.Combine(workingDir, camID.ToString(), Path.GetFileName(filename));
-				byte[] data;
-
-				try {
-					if (!File.Exists(filename)) {
-						if (isPlaylistReq) {
-							filename = Path.Combine(appDirectory, "assets", "loading.m3u8");
-						}
-						else if (context.Request.Path.EndsWith(".ts")) {
-							filename = Path.Combine(appDirectory, "assets", "loading.ts");
-						}
-						else {
-							context.Response.StatusCode = Ceen.HttpStatusCode.NotFound;
-							return true;
-						}
-					}
-
-					data = File.ReadAllBytes(filename);
-				}
-				catch (Exception e) {
-					Logger.log($"Exception while try to read file {filename}. " + e.Message);
-					context.Response.StatusCode = Ceen.HttpStatusCode.InternalServerError;
-					return true;
-				}
-
-				context.Response.SetNonCacheable();
-				context.Response.ContentType = getContentType(Path.GetExtension(filename));
-				await context.Response.WriteAllAsync(data);
-			}
-
-			return true;
-		}
-		
-		static async Task<bool> routePlayer(IHttpContext context)
-		{
-			var reqParamKey = context.Request.QueryString["key"];
-			var camID = context.Request.QueryString["cam"];
-
-			if (ConfigManager.Current.findCam(camID) == null) {
-				context.Response.StatusCode = Ceen.HttpStatusCode.NotFound;
-			}
-			else if (reqParamKey != ConfigManager.Current.key) {
-				context.Response.StatusCode = Ceen.HttpStatusCode.Unauthorized;
-			}
-			else {
-				var m3u8filename = HLS.run(camID);
-
-				if (m3u8filename == null) {
-					context.Response.StatusCode = Ceen.HttpStatusCode.InternalServerError;
-					return true;
-				}
-
-				var wwwPath = $"/stream/{camID}/{Path.GetFileName(m3u8filename)}";
-				var html = File.ReadAllText(Path.Combine(appDirectory, "assets", "player.html"));
-
-				html = html.Replace("%key%", ConfigManager.Current.key)
-					.Replace("%redirect_url_if_background%", ConfigManager.Current.redirect_url_if_background)
-					.Replace("%hls_allow_video_seek_back%", ConfigManager.Current.hls_allow_video_seek_back ? "true" : "false")
-					.Replace("%path%", wwwPath)
-					.Replace("%cam%", camID.ToString());
-
-				byte[] data = Encoding.UTF8.GetBytes(html);
-
-				context.Response.SetNonCacheable();
-				context.Response.ContentType = "text/html; charset=utf-8";
-				await context.Response.WriteAllAsync(data);
-			}
-
-			return true;
-		}
-
-		static void waitUser()
-		{
-			try {
-				Console.ReadKey();
-			}
-			catch (Exception) {
-				while (true) {
-					Thread.Sleep(3000);
-				}
+			catch 
+            {
+				while (true) 
+					Thread.Sleep(1000);
 			}
 		}
 
 		public static void Main(string[] args)
-		{
-			Console.WriteLine("Copyright (c) 2021 Carpe Diem Software Developing by Alex Versetty.");
-			Console.WriteLine("All Rights Reserved.");
-			Console.WriteLine("http://carpediem.0fees.us");
-			Console.WriteLine("-------------------------------------------------------------------");
-			Console.WriteLine("");
+        {
+            Console.WriteLine("Copyright (c) 2021-2024 Carpe Diem Software Developing by Alex Versetty.");
+            Console.WriteLine("All Rights Reserved.");
+            Console.WriteLine("http://carpediem.0fees.us");
+            Console.WriteLine("Version 2.0.");
+            Console.WriteLine("-------------------------------------------------------------------");
+            Console.WriteLine("");
 
-			try {
-				if (!Directory.Exists(logDir)) Directory.CreateDirectory(logDir);
-				if (!Directory.Exists(workingDir)) Directory.CreateDirectory(workingDir);
-				if (!Directory.Exists(captureDir)) Directory.CreateDirectory(captureDir);
+            AppDomain.CurrentDomain.ProcessExit += (s, e) => ReleaseAll();
+
+            if (Init())
+            {
+                SecurityChecks();
+
+                var protocol = ConfigManager.Current.https_mode_on ? "https" : "http";
+
+                s_logger.Log($"Server started. URL: {protocol}://{ConfigManager.Current.server_hostname}:{ConfigManager.Current.port}");
+                s_logger.Log($"Stream data directory: {s_workingDir}");
+                s_logger.Log($"Capture data directory: {s_captureDir}");
+                s_logger.Log($"Log data directory: {s_logDir}");
+                s_logger.Log($"App directory: {s_appDirectory}");
+
+                Console.WriteLine("\nPress any key to shutdown application.\n");
+            }
+
+            WaitUser();
+            Console.WriteLine("\nApplication shutdown requested\n");
+            ReleaseAll();
+        }
+
+        static bool Init()
+        {
+            try
+            {
+                if (!Directory.Exists(s_logDir)) 
+                    Directory.CreateDirectory(s_logDir);
+
+                if (!Directory.Exists(s_workingDir)) 
+                    Directory.CreateDirectory(s_workingDir);
+
+                if (!Directory.Exists(s_captureDir)) 
+                    Directory.CreateDirectory(s_captureDir);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Failed to create working directories in the program's directory. " + e.Message);
+                return false;
+            }
+
+            s_logger = new Logger(s_commonLogFilename, true);
+            s_httpAccessLogger = new Logger(s_httpLogfilename, false);
+
+            try
+            {
+                ConfigManager.Load();
+            }
+            catch (ConfigException ex)
+            {
+                s_logger.Log(ex.Message);
+                return false;
+            }
+
+            s_hls = new HLS(s_workingDir, s_ffmpegDir, s_logger);
+            s_capture = new Capture(s_captureDir, s_ffmpegDir, s_logger);
+
+            s_webserver = new WebServer(
+                s_logger,
+                s_hls,
+                s_capture,
+                ConfigManager.Current.port,
+                ConfigManager.Current.https_mode_on,
+                s_certDir,
+                ConfigManager.Current.cert_password,
+                s_assetsDir,
+                s_httpAccessLogger);
+            
+            var webserverTask = s_webserver.Start();
+            webserverTask.Wait();
+
+            if (!webserverTask.Result)
+            {
+                s_logger.Log($"Internal webserver start failed (using port {ConfigManager.Current.port})");
+                return false;
+            }
+
+            return true;
+        }
+
+        private static void ReleaseAll()
+        {
+            if (s_webserver != null)
+            {
+                try
+                {
+                    s_webserver.Stop().Wait();
+                    s_webserver.Dispose();
+                    s_webserver = null;
+                }
+                catch { }
+            }
+
+            if (s_hls != null)
+			{
+				s_hls.Dispose();
+				s_hls = null;
 			}
-			catch (Exception e) {
-				Console.WriteLine("Не удалось создать рабочие папки в папке данной программы. " + e.Message);
-				waitUser();
-				return;
-			}
 
-			Logger.init(Path.Combine(logDir, "server_log.txt"), true);
-			ConfigManager.load();
-			securityChecks();
-			HLS.init(workingDir, appDirectory);
-			CaptureWorker.init(captureDir, appDirectory);
+            if (s_httpAccessLogger != null)
+            {
+                s_httpAccessLogger.Dispose();
+                s_httpAccessLogger = null;
+            }
 
-			if (!startHttpServer()) {
-				waitUser();
-				return;
-			}
+            if (s_logger != null)
+            {
+                s_logger.Dispose();
+                s_logger = null;
+            }
+        }
 
-			var protocol = ConfigManager.Current.https_mode_on ? "https" : "http";
-
-			Logger.log($"Server started. URL: {protocol}://{ConfigManager.Current.server_hostname}:{ConfigManager.Current.port}{Environment.NewLine}"
-				+ $"Stream data directory: {workingDir}{Environment.NewLine}"
-				+ $"Capture data directory: {captureDir}{Environment.NewLine}"
-				+ $"Log data directory: {logDir}{Environment.NewLine}"
-				+ $"App directory: {appDirectory}{Environment.NewLine}");
-			Console.WriteLine("Press any key to shutdown application.");
-
-			waitUser();
-		}
-
-		private static void securityChecks()
+		private static void SecurityChecks()
 		{
 			if (ConfigManager.Current.key == Config.defaultKey) {
-				Logger.log("Ключ доступа нужно срочно изменить в конфигураторе! В противном случае любой сможет получить доступ к серверу! Сейчас стоит ключ по умолчанию. Обратите внимание - при изменении ключа изменятся и ссылки на камеры!");
-				Console.WriteLine("");
-			}
-		}
+				s_logger.Log("Ключ доступа нужно срочно изменить в конфигураторе! В противном случае любой сможет получить доступ к серверу! Сейчас стоит ключ по умолчанию. Обратите внимание - при изменении ключа изменятся и ссылки на камеры!");
+                s_logger.Log("The access key needs to be changed urgently in the configurator! Otherwise, anyone will be able to access the server! The default access key is being used now. Please note that if you change the key, the links to the cameras will also change!");
+                Console.WriteLine("");
+            }
 
-		private static bool startHttpServer()
-		{
-			string httpLogFilename = Path.Combine(logDir, "http_log.txt");
-			if (File.Exists(httpLogFilename)) File.Delete(httpLogFilename);
-
-			var config = new ServerConfig()
-				.AddLogger(new CLFLogger(httpLogFilename))
-				.AddRoute("/image/*", routeImage)
-				.AddRoute("/stream/*", routeStream)
-				.AddRoute("/player/*", routePlayer)
-				.AddRoute("/assets/*", routeAsset)
-				.AddRoute("/favicon.ico", routeAsset)
-				.AddRoute("/background.html", routeAsset);
-
-			if (ConfigManager.Current.https_mode_on) {
-				try {
-					if (File.Exists(pemCertFile) && File.Exists(pemPrivKeyFile)) {
-                        var reader = new CertificateFromPemReader();
-                        config.SSLCertificate = reader.LoadCertificateWithPrivateKey(pemCertFile, pemPrivKeyFile);
-					}
-					else if (File.Exists(certFilename)) {
-						config.LoadCertificate(certFilename, ConfigManager.Current.cert_password);
-					}
-					else {
-						Logger.log("В папке сервера отсутствует сертификат SSL. Для формата PEM: разместите файлы сертификата под именами cert.pem и privkey.pem в подпапке data. Для формата PFX: разместите сертификат под именем cert.pfx в подпапке data.");
-						return false;
-					}
-				}
-				catch (Exception e) {
-					Logger.log("Проблема с сертификатом SSL. Возможно указан неверный пароль для него или же сам файл сертификата содержит ошибку. " + e.Message);
-					return false;
-				}
-			}
-			else {
-				Logger.log("Внимание, используется незащищенное соединение (в конфигураторе не включен режим SSL)!");
-			}
-
-			var tcs = new CancellationTokenSource();
-			var task = HttpServer.ListenAsync(
-				new IPEndPoint(IPAddress.Any, ConfigManager.Current.port),
-				ConfigManager.Current.https_mode_on,
-				config,
-				tcs.Token
-			);
-
-			return true;
-		}
-	}
+            if (!ConfigManager.Current.https_mode_on)
+            {
+                s_logger.Log("Внимание, используется незащищенное соединение (в конфигураторе не включен режим SSL)!");
+                s_logger.Log("Attention, an unsecured connection is being used (SSL mode is not enabled in the configurator)!");
+                Console.WriteLine("");
+            }
+        }
+    }
 }

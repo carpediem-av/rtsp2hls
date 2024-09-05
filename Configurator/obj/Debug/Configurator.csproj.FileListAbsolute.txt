@@ -18,3 +18,25 @@ h:\alexander\Desktop\RTSP2HLS\src\Configurator\obj\Debug\Configurator.csproj.Gen
 h:\alexander\Desktop\RTSP2HLS\src\Configurator\obj\Debug\Configurator.csproj.CoreCompileInputs.cache
 h:\alexander\Desktop\RTSP2HLS\src\Configurator\obj\Debug\Configurator.exe
 h:\alexander\Desktop\RTSP2HLS\src\Configurator\obj\Debug\Configurator.pdb
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\bin\Debug\Configurator.exe.config
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\bin\Debug\Configurator.exe
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\bin\Debug\Configurator.pdb
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\obj\Debug\Configurator.csproj.AssemblyReference.cache
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\obj\Debug\CDSD.Forms.FAbout.resources
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\obj\Debug\Configurator.Form1.resources
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\obj\Debug\Configurator.Properties.Resources.resources
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\obj\Debug\Configurator.csproj.GenerateResource.cache
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\obj\Debug\Configurator.csproj.CoreCompileInputs.cache
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\obj\Debug\Configurator.exe
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\Configurator\obj\Debug\Configurator.pdb
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\bin\Debug\Configurator.exe.config
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\bin\Debug\Configurator.exe
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\bin\Debug\Configurator.pdb
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Debug\Configurator.csproj.AssemblyReference.cache
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Debug\CDSD.Forms.FAbout.resources
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Debug\Configurator.Form1.resources
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Debug\Configurator.Properties.Resources.resources
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Debug\Configurator.csproj.GenerateResource.cache
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Debug\Configurator.csproj.CoreCompileInputs.cache
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Debug\Configurator.exe
+H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Debug\Configurator.pdb

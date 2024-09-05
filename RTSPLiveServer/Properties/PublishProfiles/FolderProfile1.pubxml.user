@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\publish-win\</_PublishTargetUrl>
+    <History>True|2024-09-05T12:53:34.4036545Z||;True|2024-05-24T11:40:17.0586309+03:00||;True|2024-05-24T11:30:15.5046250+03:00||;True|2024-05-22T11:18:08.6648980+03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

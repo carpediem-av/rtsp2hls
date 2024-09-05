@@ -68,7 +68,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(429, 13);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Copyright (c) 2021-2023 Carpe Diem Software Developing by Alex Versetty";
+            this.label1.Text = "Copyright (c) 2021-2024 Carpe Diem Software Developing by Alex Versetty";
             // 
             // textBox1
             // 

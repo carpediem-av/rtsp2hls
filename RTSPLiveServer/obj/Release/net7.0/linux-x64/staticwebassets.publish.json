@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xh03+zcjcc5X8G2xmSVC9dom2wAT2KCW6T7wKPZMLHU=",
+  "Source": "RTSP2HLS",
+  "BasePath": "_content/RTSP2HLS",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

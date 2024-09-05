@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "RTSPLiveServer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:23037;http://localhost:23038"
+    }
+  }
+}

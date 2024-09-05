@@ -1,7 +1,2 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)system.formats.asn1\7.0.0\buildTransitive\netcoreapp2.0\System.Formats.Asn1.targets" Condition="Exists('$(NuGetPackageRoot)system.formats.asn1\7.0.0\buildTransitive\netcoreapp2.0\System.Formats.Asn1.targets')" />
-    <Import Project="$(NuGetPackageRoot)system.security.cryptography.pkcs\7.0.3\buildTransitive\netcoreapp2.0\System.Security.Cryptography.Pkcs.targets" Condition="Exists('$(NuGetPackageRoot)system.security.cryptography.pkcs\7.0.3\buildTransitive\netcoreapp2.0\System.Security.Cryptography.Pkcs.targets')" />
-  </ImportGroup>
-</Project>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" />

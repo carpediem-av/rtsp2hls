@@ -34,6 +34,9 @@
     <WarningLevel>4</WarningLevel>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -98,11 +101,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="icon.ico" />
     <Content Include="logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy $(TargetPath) $(TargetDir)..\..\..\RTSPLiveServer\bin\Release\netcoreapp3.1\publish_linux64\$(TargetFileName)
-copy $(TargetPath) $(TargetDir)..\..\..\RTSPLiveServer\bin\Release\netcoreapp3.1\publish_win64\$(TargetFileName)</PostBuildEvent>
+    <PostBuildEvent>if $(ConfigurationName) == Debug xcopy /y "$(TargetDir)*.*" "$(SolutionDir)RTSPLiveServer\bin\Debug\net7.0\"
+if $(ConfigurationName) == Release xcopy /y "$(TargetDir)*.*" "$(SolutionDir)RTSPLiveServer\bin\Release\net7.0\"
+if $(ConfigurationName) == Release xcopy /y "$(TargetDir)*.*" "$(SolutionDir)RTSPLiveServer\bin\Release\net7.0\publish-linux"
+if $(ConfigurationName) == Release xcopy /y "$(TargetDir)*.*" "$(SolutionDir)RTSPLiveServer\bin\Release\net7.0\publish-win"</PostBuildEvent>
   </PropertyGroup>
 </Project>

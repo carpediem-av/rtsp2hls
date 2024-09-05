@@ -1,9 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1300
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTSPLiveServer", "RTSPLiveServer\RTSPLiveServer.csproj", "{15366CC0-B49E-4B8D-A37D-ED83C3F5C400}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D55D1EE1-BEA0-4D7B-AD11-1FE78C918150} = {D55D1EE1-BEA0-4D7B-AD11-1FE78C918150}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configurator", "Configurator\Configurator.csproj", "{D55D1EE1-BEA0-4D7B-AD11-1FE78C918150}"
 EndProject
