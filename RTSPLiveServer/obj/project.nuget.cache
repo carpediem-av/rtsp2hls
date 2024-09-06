@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VJpfhtZigqY=",
+  "dgSpecHash": "paP4ZclvQwc=",
   "success": true,
-  "projectFilePath": "H:\\alexander\\Desktop\\rtsp2hls починка\\попытка 5 - замена сервера и переделка\\RTSPLiveServer\\RTSPLiveServer.csproj",
+  "projectFilePath": "H:\\alexander\\Desktop\\rtsp2hls починка\\_____текущая рабочая версия\\src\\RTSPLiveServer\\RTSPLiveServer.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",

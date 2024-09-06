@@ -104,8 +104,18 @@ namespace RTSPLiveServer
                 var remoteIpAddress = httpContext.Connection.RemoteIpAddress;
                 var path = httpContext.Request.Path;
                 var query = httpContext.Request.QueryString;
+                var length = "<error> kB";
 
-                _httpAccessLogger.Log($"[{remoteIpAddress}] | {httpContext.Response.StatusCode} | {path}{query}");
+                if (httpContext.Response.ContentLength != null)
+                {
+                    double lengthKilobytes = Math.Round((double)httpContext.Response.ContentLength / 1024.0, 1);
+                    length = $"{string.Format("{0,7:####0.0}", lengthKilobytes)} kB";
+
+                    if (httpContext.Response.ContentLength == 0 && httpContext.Response.StatusCode == 200)
+                        _logger.Log($"Zero length response detected (query: {path}{query})");
+                }
+
+                _httpAccessLogger.Log($"[{remoteIpAddress}] | {httpContext.Response.StatusCode} | {length} | {path}{query}");
             }
         }
 
@@ -118,6 +128,40 @@ namespace RTSPLiveServer
                 return match.Groups[1].Value;
             else
                 return null;
+        }
+
+        async Task<byte[]> TryReadFile(string filename)
+        {
+            byte[] data = null;
+            int attemptRemain = 5;
+
+            while (attemptRemain-- > 0)
+            {
+                try
+                {
+                    data = File.ReadAllBytes(filename);
+
+                    if (data.Length == 0)
+                        throw new Exception("Zero size file");
+
+                    return data;
+                }
+                catch (Exception e)
+                {
+                    if (attemptRemain == 0)
+                    {
+                        _logger.Log($"Exception while try to read file \"{filename}\". {e.Message}");
+                        return null;
+                    }
+                    else
+                    {
+                        _logger.Log($"Trying to read \"{filename}\" again (remaining attempts: {attemptRemain})");
+                        await Task.Delay(50);
+                    }
+                }
+            }
+
+            return null;
         }
 
         async Task RouteAsset(HttpContext context)
@@ -153,7 +197,9 @@ namespace RTSPLiveServer
 
                 WebUtil.SetCacheControl(context.Response, AssetExpire);
                 context.Response.ContentType = WebUtil.GetFileMIMEContentType(filename);
-                await context.Response.BodyWriter.AsStream().WriteAsync(data);
+                context.Response.ContentLength = data.Length;
+                await context.Response.BodyWriter.WriteAsync(data);
+                await context.Response.BodyWriter.FlushAsync();
             }
         }
 
@@ -180,35 +226,19 @@ namespace RTSPLiveServer
                 }
                 else
                 {
-                    byte[] data = null;
-                    int attemptRemain = 3;
-                    Exception readException = null;
+                    byte[] data = await TryReadFile(filename);
 
-                    while (attemptRemain-- > 0)
+                    if (data == null)
                     {
-                        try
-                        {
-                            data = File.ReadAllBytes(filename);
-                            break;
-                        }
-                        catch (Exception e)
-                        {
-                            _logger.Log($"Trying to read \"{filename}\" again (remaining attempts: {attemptRemain})");
-                            readException = e;
-                            await Task.Delay(30);
-                        }
-                    }
-
-                    if (readException != null)
-                    {
-                        _logger.Log($"Exception while try to read file \"{filename}\". " + readException.Message);
                         await SendErrorImage(context);
                     }
                     else
                     {
                         WebUtil.SetCacheControl(context.Response, ConfigManager.Current.capture_cache_expire);
                         context.Response.ContentType = WebUtil.GetFileMIMEContentType(filename);
-                        await context.Response.BodyWriter.AsStream().WriteAsync(data);
+                        context.Response.ContentLength = data.Length;
+                        await context.Response.BodyWriter.WriteAsync(data);
+                        await context.Response.BodyWriter.FlushAsync();
                     }
                 }
             }
@@ -221,7 +251,9 @@ namespace RTSPLiveServer
                 var data = File.ReadAllBytes(_errorImageFilename); 
                 WebUtil.SetCacheControl(context.Response, 0);
                 context.Response.ContentType = WebUtil.GetFileMIMEContentType(_errorImageFilename);
-                await context.Response.BodyWriter.AsStream().WriteAsync(data);
+                context.Response.ContentLength = data.Length;
+                await context.Response.BodyWriter.WriteAsync(data);
+                await context.Response.BodyWriter.FlushAsync();
             }
             catch (Exception e)
             {
@@ -250,39 +282,38 @@ namespace RTSPLiveServer
 
                 var filename = Path.GetFileName(context.Request.Path);
                 filename = Path.Combine(_hls.WorkingDir, camID.ToString(), filename);
-                byte[] data;
 
-                try
+                if (!File.Exists(filename))
                 {
-                    if (!File.Exists(filename))
+                    if (isPlaylistReq)
                     {
-                        if (isPlaylistReq)
-                        {
-                            filename = Path.Combine(_assetsDir, "loading.m3u8");
-                        }
-                        else if (context.Request.Path.ToString().EndsWith(".ts"))
-                        {
-                            filename = Path.Combine(_assetsDir, "loading.ts");
-                        }
-                        else
-                        {
-                            context.Response.StatusCode = (int)HttpStatusCode.NotFound;
-                            return;
-                        }
+                        filename = Path.Combine(_assetsDir, "loading.m3u8");
                     }
-
-                    data = File.ReadAllBytes(filename);
+                    else if (context.Request.Path.ToString().EndsWith(".ts"))
+                    {
+                        filename = Path.Combine(_assetsDir, "loading.ts");
+                    }
+                    else
+                    {
+                        context.Response.StatusCode = (int)HttpStatusCode.NotFound;
+                        return;
+                    }
                 }
-                catch (Exception e)
+
+                byte[] data = await TryReadFile(filename);
+
+                if (data == null)
                 {
-                    _logger.Log($"Exception while try to read file \"{filename}\". " + e.Message);
                     context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
-                    return;
                 }
-
-                WebUtil.SetCacheControl(context.Response, 0);
-                context.Response.ContentType = WebUtil.GetFileMIMEContentType(filename);
-                await context.Response.BodyWriter.AsStream().WriteAsync(data);
+                else
+                {
+                    WebUtil.SetCacheControl(context.Response, 0);
+                    context.Response.ContentType = WebUtil.GetFileMIMEContentType(filename);
+                    context.Response.ContentLength = data.Length;
+                    await context.Response.BodyWriter.WriteAsync(data);
+                    await context.Response.BodyWriter.FlushAsync();
+                }
             }
         }
 
@@ -333,7 +364,9 @@ namespace RTSPLiveServer
 
                     WebUtil.SetCacheControl(context.Response, 0);
                     context.Response.ContentType = WebUtil.GetFileMIMEContentType(_playerTemplateFilename);
-                    await context.Response.BodyWriter.AsStream().WriteAsync(data);
+                    context.Response.ContentLength = data.Length;
+                    await context.Response.BodyWriter.WriteAsync(data);
+                    await context.Response.BodyWriter.FlushAsync();
                 }
             }
         }

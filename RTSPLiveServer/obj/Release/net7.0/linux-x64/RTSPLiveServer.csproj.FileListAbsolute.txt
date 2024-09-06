@@ -1,698 +1,349 @@
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS.deps.json
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS.runtimeconfig.json
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\background.html
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\error_image.jpg
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\favicon.ico
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\hls.js
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\ifvisible.js
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\loading.m3u8
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\loading.ts
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\player.html
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\ffmpeg\ffmpeg-linux64
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\ffmpeg\ffmpeg-win64.exe
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Pkcs.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.CSharp.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.VisualBasic.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.VisualBasic.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Win32.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Win32.Registry.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.AppContext.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Buffers.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.Concurrent.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.Immutable.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.NonGeneric.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.Specialized.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.Annotations.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.DataAnnotations.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.EventBasedAsync.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.TypeConverter.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Configuration.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Console.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Data.Common.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Data.DataSetExtensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Data.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Contracts.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Debug.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.FileVersionInfo.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Process.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.StackTrace.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.TextWriterTraceListener.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Tools.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.TraceSource.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Tracing.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Drawing.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Drawing.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Dynamic.Runtime.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Formats.Asn1.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Formats.Tar.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Globalization.Calendars.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Globalization.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Globalization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.Brotli.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.FileSystem.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.ZipFile.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.AccessControl.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.DriveInfo.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.Watcher.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.IsolatedStorage.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.MemoryMappedFiles.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Pipes.AccessControl.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Pipes.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.UnmanagedMemoryStream.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.Expressions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.Parallel.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.Queryable.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Memory.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Http.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Http.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.HttpListener.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Mail.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.NameResolution.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.NetworkInformation.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Ping.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Quic.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Requests.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Security.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.ServicePoint.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Sockets.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebClient.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebHeaderCollection.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebProxy.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebSockets.Client.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebSockets.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Numerics.Vectors.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Numerics.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ObjectModel.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.CoreLib.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.DataContractSerialization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.Uri.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.Xml.Linq.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.DispatchProxy.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Emit.ILGeneration.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Emit.Lightweight.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Emit.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Metadata.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.TypeExtensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Resources.Reader.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Resources.ResourceManager.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Resources.Writer.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.CompilerServices.Unsafe.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.CompilerServices.VisualC.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Handles.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.InteropServices.JavaScript.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.InteropServices.RuntimeInformation.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.InteropServices.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Intrinsics.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Loader.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Numerics.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Formatters.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.AccessControl.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Claims.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Algorithms.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Cng.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Csp.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Encoding.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.OpenSsl.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.X509Certificates.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Principal.Windows.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Principal.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.SecureString.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ServiceModel.Web.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ServiceProcess.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encoding.CodePages.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encoding.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encoding.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encodings.Web.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.RegularExpressions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Channels.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Overlapped.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.Dataflow.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.Parallel.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Thread.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.ThreadPool.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Timer.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Transactions.Local.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Transactions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ValueTuple.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Web.HttpUtility.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Web.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Windows.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.Linq.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.ReaderWriter.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.Serialization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XDocument.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XPath.XDocument.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XPath.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XmlDocument.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XmlSerializer.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\WindowsBase.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\mscorlib.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\netstandard.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Antiforgery.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authorization.Policy.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authorization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Authorization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Forms.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Server.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Web.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.CookiePolicy.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Cors.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.DataProtection.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Diagnostics.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HostFiltering.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Hosting.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Html.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Connections.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Features.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Results.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HttpLogging.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HttpOverrides.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HttpsPolicy.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Identity.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Localization.Routing.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Localization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Metadata.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Cors.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Localization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Razor.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.OutputCaching.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.RateLimiting.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Razor.Runtime.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Razor.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.RequestDecompression.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.ResponseCaching.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.ResponseCompression.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Rewrite.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Routing.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.HttpSys.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.IIS.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Session.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.Common.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.StaticFiles.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.WebSockets.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.WebUtilities.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.CommandLine.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Ini.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Features.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Composite.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Embedded.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Physical.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileSystemGlobbing.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Hosting.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Hosting.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Http.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Identity.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Identity.Stores.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Localization.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Localization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Configuration.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Console.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Debug.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.EventLog.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.EventSource.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.TraceSource.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.ObjectPool.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Options.DataAnnotations.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Options.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.WebEncoders.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.JSInterop.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Net.Http.Headers.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.EventLog.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Pipelines.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.RateLimiting.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\createdump
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Globalization.Native.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.IO.Compression.Native.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Native.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Net.Security.Native.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Security.Cryptography.Native.OpenSsl.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libclrgc.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libclrjit.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libcoreclr.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libcoreclrtraceptprovider.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libhostfxr.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libhostpolicy.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libmscordaccore.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\bin\Release\net7.0\linux-x64\libmscordbi.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.csproj.AssemblyReference.cache
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.GeneratedMSBuildEditorConfig.editorconfig
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.AssemblyInfoInputs.cache
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.AssemblyInfo.cs
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.csproj.CoreCompileInputs.cache
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSP2HLS.MvcApplicationPartsAssemblyInfo.cache
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.RTSP2HLS.Microsoft.AspNetCore.StaticWebAssets.props
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.build.RTSP2HLS.props
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.RTSP2HLS.props
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.buildTransitive.RTSP2HLS.props
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets.pack.json
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets.build.json
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets.development.json
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\scopedcss\bundle\RTSP2HLS.styles.css
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSP2HLS.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\refint\RTSP2HLS.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.genruntimeconfig.cache
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\ref\RTSP2HLS.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLive.C7EB4CE4.Up2Date
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\background.html
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\error_image.jpg
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\favicon.ico
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\hls.js
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\ifvisible.js
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\loading.m3u8
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\loading.ts
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\player.html
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\ffmpeg\ffmpeg-linux64
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\ffmpeg\ffmpeg-win64.exe
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS.deps.json
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS.runtimeconfig.json
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Pkcs.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.CSharp.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.VisualBasic.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.VisualBasic.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Win32.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Win32.Registry.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.AppContext.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Buffers.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.Concurrent.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.Immutable.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.NonGeneric.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.Specialized.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.Annotations.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.DataAnnotations.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.EventBasedAsync.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.TypeConverter.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Configuration.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Console.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Data.Common.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Data.DataSetExtensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Data.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Contracts.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Debug.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.FileVersionInfo.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Process.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.StackTrace.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.TextWriterTraceListener.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Tools.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.TraceSource.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Tracing.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Drawing.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Drawing.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Dynamic.Runtime.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Formats.Asn1.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Formats.Tar.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Globalization.Calendars.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Globalization.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Globalization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.Brotli.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.FileSystem.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.ZipFile.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.AccessControl.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.DriveInfo.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.Watcher.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.IsolatedStorage.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.MemoryMappedFiles.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Pipes.AccessControl.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Pipes.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.UnmanagedMemoryStream.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.Expressions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.Parallel.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.Queryable.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Memory.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Http.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Http.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.HttpListener.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Mail.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.NameResolution.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.NetworkInformation.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Ping.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Quic.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Requests.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Security.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.ServicePoint.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Sockets.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebClient.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebHeaderCollection.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebProxy.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebSockets.Client.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebSockets.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Numerics.Vectors.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Numerics.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ObjectModel.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.CoreLib.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.DataContractSerialization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.Uri.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.Xml.Linq.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.DispatchProxy.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Emit.ILGeneration.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Emit.Lightweight.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Emit.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Metadata.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.TypeExtensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Resources.Reader.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Resources.ResourceManager.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Resources.Writer.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.CompilerServices.Unsafe.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.CompilerServices.VisualC.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Handles.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.InteropServices.JavaScript.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.InteropServices.RuntimeInformation.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.InteropServices.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Intrinsics.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Loader.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Numerics.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Formatters.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.AccessControl.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Claims.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Algorithms.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Cng.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Csp.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Encoding.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.OpenSsl.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.X509Certificates.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Principal.Windows.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Principal.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.SecureString.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ServiceModel.Web.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ServiceProcess.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encoding.CodePages.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encoding.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encoding.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encodings.Web.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.RegularExpressions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Channels.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Overlapped.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.Dataflow.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.Parallel.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Thread.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.ThreadPool.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Timer.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Transactions.Local.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Transactions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ValueTuple.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Web.HttpUtility.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Web.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Windows.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.Linq.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.ReaderWriter.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.Serialization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XDocument.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XPath.XDocument.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XPath.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XmlDocument.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XmlSerializer.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\WindowsBase.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\mscorlib.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\netstandard.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Antiforgery.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authorization.Policy.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authorization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Authorization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Forms.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Server.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Web.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.CookiePolicy.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Cors.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.DataProtection.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Diagnostics.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HostFiltering.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Hosting.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Html.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Connections.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Extensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Features.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Results.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HttpLogging.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HttpOverrides.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HttpsPolicy.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Identity.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Localization.Routing.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Localization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Metadata.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Cors.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Localization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Razor.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.OutputCaching.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.RateLimiting.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Razor.Runtime.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Razor.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.RequestDecompression.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.ResponseCaching.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.ResponseCompression.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Rewrite.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Routing.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.HttpSys.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.IIS.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Session.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.Common.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.StaticFiles.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.WebSockets.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.WebUtilities.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.CommandLine.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Ini.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Json.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Features.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Composite.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Embedded.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Physical.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileSystemGlobbing.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Hosting.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Hosting.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Http.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Identity.Core.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Identity.Stores.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Localization.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Localization.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Configuration.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Console.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Debug.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.EventLog.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.EventSource.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.TraceSource.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.ObjectPool.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Options.DataAnnotations.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Options.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Primitives.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.WebEncoders.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.JSInterop.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Net.Http.Headers.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.EventLog.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Pipelines.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Xml.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.RateLimiting.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\createdump
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Globalization.Native.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.IO.Compression.Native.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Native.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Net.Security.Native.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Security.Cryptography.Native.OpenSsl.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libclrgc.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libclrjit.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libcoreclr.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libcoreclrtraceptprovider.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libhostfxr.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libhostpolicy.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libmscordaccore.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\bin\Release\net7.0\linux-x64\libmscordbi.so
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.csproj.AssemblyReference.cache
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.GeneratedMSBuildEditorConfig.editorconfig
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.AssemblyInfoInputs.cache
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.AssemblyInfo.cs
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.csproj.CoreCompileInputs.cache
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSP2HLS.MvcApplicationPartsAssemblyInfo.cache
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets.build.json
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets.development.json
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.RTSP2HLS.Microsoft.AspNetCore.StaticWebAssets.props
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.build.RTSP2HLS.props
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.RTSP2HLS.props
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.buildTransitive.RTSP2HLS.props
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets.pack.json
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\scopedcss\bundle\RTSP2HLS.styles.css
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLive.C7EB4CE4.Up2Date
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSP2HLS.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\refint\RTSP2HLS.dll
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.genruntimeconfig.cache
-H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\RTSPLiveServer\obj\Release\net7.0\linux-x64\ref\RTSP2HLS.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\background.html
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\error_image.jpg
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\favicon.ico
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\hls.js
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\ifvisible.js
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\loading.m3u8
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\loading.ts
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\assets\player.html
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\ffmpeg\ffmpeg-linux64
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\ffmpeg\ffmpeg-win64.exe
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS.deps.json
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS.runtimeconfig.json
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\RTSP2HLS.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Pkcs.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.CSharp.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.VisualBasic.Core.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.VisualBasic.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Win32.Primitives.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Win32.Registry.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.AppContext.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Buffers.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.Concurrent.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.Immutable.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.NonGeneric.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.Specialized.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Collections.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.Annotations.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.DataAnnotations.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.EventBasedAsync.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.Primitives.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.TypeConverter.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ComponentModel.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Configuration.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Console.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Core.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Data.Common.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Data.DataSetExtensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Data.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Contracts.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Debug.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.FileVersionInfo.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Process.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.StackTrace.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.TextWriterTraceListener.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Tools.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.TraceSource.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.Tracing.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Drawing.Primitives.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Drawing.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Dynamic.Runtime.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Formats.Asn1.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Formats.Tar.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Globalization.Calendars.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Globalization.Extensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Globalization.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.Brotli.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.FileSystem.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.ZipFile.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Compression.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.AccessControl.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.DriveInfo.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.Primitives.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.Watcher.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.FileSystem.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.IsolatedStorage.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.MemoryMappedFiles.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Pipes.AccessControl.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Pipes.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.UnmanagedMemoryStream.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.Expressions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.Parallel.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.Queryable.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Linq.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Memory.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Http.Json.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Http.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.HttpListener.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Mail.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.NameResolution.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.NetworkInformation.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Ping.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Primitives.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Quic.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Requests.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Security.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.ServicePoint.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.Sockets.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebClient.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebHeaderCollection.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebProxy.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebSockets.Client.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.WebSockets.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Net.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Numerics.Vectors.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Numerics.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ObjectModel.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.CoreLib.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.DataContractSerialization.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.Uri.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.Xml.Linq.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Private.Xml.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.DispatchProxy.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Emit.ILGeneration.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Emit.Lightweight.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Emit.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Extensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Metadata.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.Primitives.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.TypeExtensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Reflection.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Resources.Reader.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Resources.ResourceManager.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Resources.Writer.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.CompilerServices.Unsafe.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.CompilerServices.VisualC.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Extensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Handles.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.InteropServices.JavaScript.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.InteropServices.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Intrinsics.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Loader.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Numerics.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Formatters.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Json.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Primitives.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.Xml.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.Serialization.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Runtime.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.AccessControl.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Claims.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Algorithms.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Cng.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Csp.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Encoding.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.OpenSsl.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Primitives.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.X509Certificates.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Principal.Windows.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Principal.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.SecureString.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ServiceModel.Web.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ServiceProcess.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encoding.CodePages.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encoding.Extensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encoding.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Encodings.Web.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.Json.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Text.RegularExpressions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Channels.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Overlapped.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.Dataflow.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.Extensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.Parallel.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Tasks.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Thread.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.ThreadPool.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.Timer.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Transactions.Local.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Transactions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.ValueTuple.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Web.HttpUtility.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Web.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Windows.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.Linq.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.ReaderWriter.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.Serialization.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XDocument.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XPath.XDocument.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XPath.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XmlDocument.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.XmlSerializer.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Xml.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\WindowsBase.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\mscorlib.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\netstandard.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Antiforgery.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.Core.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authentication.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Authorization.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Authorization.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Forms.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Server.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.Web.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Components.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.CookiePolicy.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Cors.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.DataProtection.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Diagnostics.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HostFiltering.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Hosting.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Connections.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Extensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Features.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.Results.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Http.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HttpLogging.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HttpOverrides.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Identity.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Localization.Routing.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Localization.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Metadata.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Core.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Mvc.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.OutputCaching.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.RateLimiting.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Razor.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.RequestDecompression.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.ResponseCaching.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.ResponseCompression.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Rewrite.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Routing.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.IIS.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.Session.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.Common.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.Core.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.SignalR.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.StaticFiles.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.WebSockets.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.WebUtilities.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.AspNetCore.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Ini.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Json.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.Xml.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Configuration.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Features.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Composite.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileProviders.Physical.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Hosting.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Http.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Identity.Core.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Identity.Stores.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Localization.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Localization.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Configuration.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Console.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.Debug.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.EventLog.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.EventSource.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.TraceSource.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Logging.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.ObjectPool.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Options.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.Primitives.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Extensions.WebEncoders.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.JSInterop.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\Microsoft.Net.Http.Headers.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Diagnostics.EventLog.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.IO.Pipelines.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Security.Cryptography.Xml.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\System.Threading.RateLimiting.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\createdump
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Globalization.Native.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.IO.Compression.Native.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Native.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Net.Security.Native.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libSystem.Security.Cryptography.Native.OpenSsl.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libclrgc.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libclrjit.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libcoreclr.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libcoreclrtraceptprovider.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libhostfxr.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libhostpolicy.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libmscordaccore.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\bin\Release\net7.0\linux-x64\libmscordbi.so
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.csproj.AssemblyReference.cache
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.GeneratedMSBuildEditorConfig.editorconfig
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.AssemblyInfoInputs.cache
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.AssemblyInfo.cs
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.csproj.CoreCompileInputs.cache
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSP2HLS.MvcApplicationPartsAssemblyInfo.cache
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets.build.json
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets.development.json
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.RTSP2HLS.Microsoft.AspNetCore.StaticWebAssets.props
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.build.RTSP2HLS.props
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.RTSP2HLS.props
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets\msbuild.buildTransitive.RTSP2HLS.props
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\staticwebassets.pack.json
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\scopedcss\bundle\RTSP2HLS.styles.css
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLive.C7EB4CE4.Up2Date
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSP2HLS.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\refint\RTSP2HLS.dll
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\RTSPLiveServer.genruntimeconfig.cache
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\RTSPLiveServer\obj\Release\net7.0\linux-x64\ref\RTSP2HLS.dll

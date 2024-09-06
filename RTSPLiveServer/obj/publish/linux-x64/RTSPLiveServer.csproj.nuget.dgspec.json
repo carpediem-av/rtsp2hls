@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\alexander\\Desktop\\rtsp2hls починка\\попытка 5 - замена сервера и переделка\\RTSPLiveServer\\RTSPLiveServer.csproj": {}
+    "H:\\alexander\\Desktop\\rtsp2hls починка\\_____текущая рабочая версия\\src\\RTSPLiveServer\\RTSPLiveServer.csproj": {}
   },
   "projects": {
-    "H:\\alexander\\Desktop\\rtsp2hls починка\\попытка 5 - замена сервера и переделка\\RTSPLiveServer\\RTSPLiveServer.csproj": {
+    "H:\\alexander\\Desktop\\rtsp2hls починка\\_____текущая рабочая версия\\src\\RTSPLiveServer\\RTSPLiveServer.csproj": {
       "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "H:\\alexander\\Desktop\\rtsp2hls починка\\попытка 5 - замена сервера и переделка\\RTSPLiveServer\\RTSPLiveServer.csproj",
+        "projectUniqueName": "H:\\alexander\\Desktop\\rtsp2hls починка\\_____текущая рабочая версия\\src\\RTSPLiveServer\\RTSPLiveServer.csproj",
         "projectName": "RTSP2HLS",
-        "projectPath": "H:\\alexander\\Desktop\\rtsp2hls починка\\попытка 5 - замена сервера и переделка\\RTSPLiveServer\\RTSPLiveServer.csproj",
+        "projectPath": "H:\\alexander\\Desktop\\rtsp2hls починка\\_____текущая рабочая версия\\src\\RTSPLiveServer\\RTSPLiveServer.csproj",
         "packagesPath": "C:\\Users\\alexander\\.nuget\\packages\\",
-        "outputPath": "H:\\alexander\\Desktop\\rtsp2hls починка\\попытка 5 - замена сервера и переделка\\RTSPLiveServer\\obj\\publish\\linux-x64\\",
+        "outputPath": "H:\\alexander\\Desktop\\rtsp2hls починка\\_____текущая рабочая версия\\src\\RTSPLiveServer\\obj\\publish\\linux-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

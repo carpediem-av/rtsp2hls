@@ -217,7 +217,7 @@ namespace RTSPLiveServer
 				lock (_sync) 
 					if (_completed) break;
 				
-				Task.Delay(25).Wait();
+				Task.Delay(50).Wait();
 			}
 		}
     }

@@ -43,3 +43,12 @@ H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена с�
 H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Release\Configurator.csproj.GenerateResource.cache
 H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Release\Configurator.csproj.CoreCompileInputs.cache
 H:\alexander\Desktop\rtsp2hls починка\попытка 5 - замена сервера и переделка\Configurator\obj\Release\Configurator.exe
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\Configurator\bin\Release\Configurator.exe.config
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\Configurator\bin\Release\Configurator.exe
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\Configurator\obj\Release\Configurator.csproj.AssemblyReference.cache
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\Configurator\obj\Release\CDSD.Forms.FAbout.resources
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\Configurator\obj\Release\Configurator.Form1.resources
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\Configurator\obj\Release\Configurator.Properties.Resources.resources
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\Configurator\obj\Release\Configurator.csproj.GenerateResource.cache
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\Configurator\obj\Release\Configurator.csproj.CoreCompileInputs.cache
+H:\alexander\Desktop\rtsp2hls починка\_____текущая рабочая версия\src\Configurator\obj\Release\Configurator.exe
